@@ -1,4 +1,4 @@
-# Project Name: Game Dev Assets MDEV1003 & COMP3023
+# Project Name: Game Dev Assets MDEV, COMP3023a, & GAME
 <img src="Images/GCLogo.png" width="320"  align="right" />
 ## Descripton
 
