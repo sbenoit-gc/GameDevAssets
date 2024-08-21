@@ -2,8 +2,9 @@
 <img src="Images/GCLogo.png" width="320"  align="right" />
 ## Descripton
 
-A github repository of assets for MDEV1003 and COMP3023 courses.
+A github repository of assets for our MDEV, GAME, and COMP courses.
+
 
 ## Usage
-For use in the MDEV1003 or COMP3023 courses to distribute shared assets.
+Sample assets used in our course demonstrations.
 Clone, or download the zip, to a local directory.
