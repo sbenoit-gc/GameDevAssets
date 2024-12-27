@@ -1,5 +1,7 @@
-# Project Name: Game Dev Assets MDEV, COMP3023, & GAME
-<img src="Images/GCLogo.png" width="320"  align="right" />
+# Project Name: Game Dev Assets <br>
+## MDEV, COMP, & GAME programs
+<img src="Images/GCLogo.png" width="320"  align="right" /><br>
+
 ## Descripton
 
 A github repository of assets for our MDEV, GAME, and COMP courses.
